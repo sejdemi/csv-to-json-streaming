@@ -7,8 +7,8 @@ First run the command npm i to install the packages associated with the project 
 
 # CSV-DATA BACKGROUND
 
-Please note that the input.csv file was cborrowed from https://stats.govt.nz/large-datasets/csv-files-for-download/
-This is a site affiliated with the NZ goverment and it's the first CSV file you'll see listed as "Annual enterprise survey: 2021 financial year (provisional) – CSV." Feel free to choose other data sets.
+Please note that the input.csv file was borrowed from https://stats.govt.nz/large-datasets/csv-files-for-download/
+This is a site affiliated with the NZ goverment and it is the first CSV file you'll see listed as "Annual enterprise survey: 2021 financial year (provisional) – CSV." Feel free to choose other data sets.
 
 # FILES TO DELETE BEFORE RUNNING PROJECT
 
